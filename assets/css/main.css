@@ -2589,8 +2589,8 @@ input, select, textarea {
 /* Image */
 	
 	.image_suma{
-		left: 40%;
 		position: relative;
+		left: 40%;
 	}
 	.image {
 		border: 0;
