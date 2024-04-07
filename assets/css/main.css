@@ -2587,7 +2587,11 @@ input, select, textarea {
 		}
 
 /* Image */
-
+	
+	.image_suma{
+		left: 40%;
+		position: relative;
+	}
 	.image {
 		border: 0;
 		display: inline-block;
